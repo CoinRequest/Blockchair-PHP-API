@@ -7,7 +7,7 @@
         "blockchain",
         "blockchair"
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "guzzlehttp/guzzle": "^6.3",
         "composer/ca-bundle": "^1.1",
