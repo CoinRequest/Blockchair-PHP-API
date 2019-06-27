@@ -1,7 +1,7 @@
 {
     "name": "coinrequest/blockchair-php-api",
     "description": "PHP API client for BlockChair",
-    "type": "library, composer-plugin, extension, plugin",
+    "type": "library",
     "keywords": [
         "cryptocurrency",
         "blockchain",
