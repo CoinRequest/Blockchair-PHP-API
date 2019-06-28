@@ -1,8 +1,9 @@
 <?php
 
-namespace Tests\Endpoint;
+namespace BlockChair\Tests\Endpoint;
 
-use Tests\TestCase;
+
+use BlockChair\Tests\TestCase;
 
 class BitcoinTest extends TestCase
 {

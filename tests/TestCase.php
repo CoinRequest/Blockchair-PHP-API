@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests;
+namespace BlockChair\Tests;
 
 use BlockChair\BlockChair;
 use Symfony\Component\VarDumper\VarDumper;
